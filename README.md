@@ -1,4 +1,4 @@
 Samplephp
 =========
 
-Sample php code snippet
+This is a readme file edited from the local machine
